@@ -76,7 +76,7 @@
     "jquery": "^3.4.1",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.11",
-    "marked": "^0.6.3",
+    "marked": "^0.7.0",
     "moment": "^2.24.0",
     "ot.interactions_viewer": "0.0.11",
     "process": "^0.11.10",
