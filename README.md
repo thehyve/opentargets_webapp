@@ -1,3 +1,5 @@
+:warning: THIS IMPLEMENTATION OF THE FRONTEND IS NO LONGER IN USE OR MAINTENANCE AS OF RELEASE 21.04; SUPERSEDED BY [opentargets_platform_app](https://github.com/thehyve/opentargets_platform_app)
+
 Docker container: [![Docker Repository on Quay](https://quay.io/repository/opentargets/webapp/status "Docker Repository on Quay")](https://quay.io/repository/opentargets/webapp)
 
 Travis CI build: [![Build Status](https://travis-ci.com/opentargets/webapp.svg?branch=master)](https://travis-ci.com/opentargets/webapp)
